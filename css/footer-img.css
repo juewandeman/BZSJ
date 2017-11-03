@@ -1,0 +1,35 @@
+.icon {
+  display: inline-block;
+}
+.icon-dh {
+  background-image: url(../img/footer-img.png);
+  background-position: 0px 0px;
+  width: 16px;
+  height: 16px;
+}
+.icon-dz {
+  background-image: url(../img/footer-img.png);
+  background-position: -16px 0px;
+  width: 16px;
+  height: 16px;
+}
+.icon-sj {
+  background-image: url(../img/footer-img.png);
+  background-position: 0px -16px;
+  width: 16px;
+  height: 16px;
+	transform: scale(1.3,1.3) translateY(3px);	
+  
+}
+.icon-yb {
+  background-image: url(../img/footer-img.png);
+  background-position: -16px -16px;
+  width: 16px;
+  height: 16px;
+}
+.icon-yx {
+  background-image: url(../img/footer-img.png);
+  background-position: -32px 0px;
+  width: 16px;
+  height: 16px;
+}
